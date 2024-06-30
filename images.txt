@@ -1,4 +1,4 @@
 elasticsearch:7.6.2
 logstash:7.6.2
 kibana:7.6.2
-ollama
+ollamaai:latest
